@@ -1,0 +1,11 @@
+__pycache__/
+*.pyc
+data/
+*.pt
+*.safetensors
+.env
+.ipynb_checkpoints/
+results/ads/*
+!results/ads/.gitkeep
+results/stylegan_samples/*
+!results/stylegan_samples/.gitkeep

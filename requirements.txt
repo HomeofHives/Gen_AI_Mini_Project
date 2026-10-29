@@ -1,0 +1,14 @@
+numpy
+scipy
+matplotlib
+pandas
+pillow
+torch
+torchvision
+transformers
+diffusers
+accelerate
+safetensors
+streamlit
+openai
+pyngrok
